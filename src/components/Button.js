@@ -1,7 +1,8 @@
 import React from 'react';
 
 class Button extends React.Component{
-    
+
+// rony name    
     render(){
         const {change, locale} = this.props;
 
